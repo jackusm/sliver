@@ -19,7 +19,7 @@ require (
 	github.com/gorilla/mux v1.7.3
 	github.com/mattn/go-colorable v0.1.4 // indirect
 	github.com/mattn/go-isatty v0.0.10 // indirect
-	github.com/miekg/dns v1.1.22
+	github.com/miekg/dns v1.1.25
 	github.com/rogpeppe/go-internal v1.5.0 // indirect
 	github.com/sirupsen/logrus v1.4.2
 	github.com/stretchr/testify v1.4.0
